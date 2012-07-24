@@ -1,0 +1,16 @@
+Logfile initialized
+[INFO] logfile = C:\Users\murata.tatsuhiko\My Documents\Titanium Studio Workspace\TestRepo\build.log
+[DEBUG] C:\Users\murata.tatsuhiko\AppData\Roaming\Titanium\mobilesdk\win32\1.8.2\android\builder.py simulator MyTestRepo C:\Android\android-sdk C:\Users\murata.tatsuhiko\My Documents\Titanium Studio Workspace\TestRepo jp.co.fois.mytestrepo 2 WVGA854
+[INFO] Building MyTestRepo for Android ... one moment
+[INFO] Titanium SDK version: 1.8.2 (02/23/12 17:46 59b3a90)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 2 devices/emulators
+[TRACE] adb devices returned 2 devices/emulators
+[TRACE] adb devices returned 2 devices/emulators
+[TRACE] adb devices returned 2 devices/emulators
+[TRACE] adb devices returned 2 devices/emulators
+[TRACE] adb devices returned 2 devices/emulators
+[TRACE] adb devices returned 2 devices/emulators
+[TRACE] adb devices returned 2 devices/emulators
+[TRACE] adb devices returned 2 devices/emulators
+[TRACE] adb devices returned 2 devices/emulators
